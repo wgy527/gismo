@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://112.74.73.214/ipa/BWYFS.ipa</string>
+                    <string>http://192.168.1.106/Desktop/BWYFS.ipa</string>
                 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://112.74.73.214/ipa/full.jpg</string>
+<string>http://192.168.1.106/Desktop/full.jpg</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://112.74.73.214/ipa/dis.png</string>
+<string>http://192.168.1.106/Desktop/dis.png</string>
 </dict>
             </array>
             <key>metadata</key>
