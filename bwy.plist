@@ -2,48 +2,47 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://192.168.1.106/user/Desktop/BWYME.ipa</string>
-				</dict>
-				<dict>
-                                        <key>kind</key>
-                                        <string>display-image</string>
-                                        <key>needs-shine</key>
-                                        <true/>
-                                        <key>url</key>
-                                        <string>http://192.168.1.106/user/Desktop/dis.png</string>
-                                </dict>
-                                 <dict>
-                                        <key>kind</key>
-                                        <string>full-size-image</string>
-                                        <key>needs-shine</key>
-                                        <true/>
-                                        <key>url</key>
-                                        <string>http://192.168.1.106/user/Desktop/full.png</string>
-                                 </dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.foshan.BWYFS</string>
-				<key>bundle-version</key>
-				<string>1.0.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-                                <string>宝微营</string>
-				<key>title</key>
-				<string>宝微营</string>
-			</dict>
-		</dict>
-	</array>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://112.74.73.214/ipa/BWYFS.ipa</string>
+                </dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<false/>
+<key>url</key>
+<string>http://112.74.73.214/ipa/full.jpg</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://112.74.73.214/ipa/dis.png</string>
+</dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+<string>ecom.foshan.BWYFS</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>宝微营</string>
+            </dict>
+        </dict>
+    </array>
 </dict>
 </plist>
+
