@@ -17,9 +17,9 @@
 <key>kind</key>
 <string>full-size-image</string>
 <key>needs-shine</key>
-<false/>
+<true/>
 <key>url</key>
-<string>http://192.168.1.106/Desktop/full.jpg</string>
+<string>http://192.168.1.106/Desktop/full.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-<string>ecom.foshan.BWYFS</string>
+<string>com.foshan.BWYFS</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
