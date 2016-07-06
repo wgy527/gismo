@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://112.74.73.214/ipa/BWYME.ipa</string>
 				</dict>
+				<dict>
+                                        <key>kind</key>
+                                        <string>display-image</string>
+                                        <key>needs-shine</key>
+                                        <true/>
+                                        <key>url</key>
+                                        <string>http://112.74.73.214/ipa/dis.png</string>
+                                </dict>
+                                 <dict>
+                                        <key>kind</key>
+                                        <string>full-size-image</string>
+                                        <key>needs-shine</key>
+                                        <true/>
+                                        <key>url</key>
+                                        <string>http://112.74.73.214/ipa/full.png</string>
+                                 </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
